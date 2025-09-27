@@ -1,7 +1,7 @@
 # pcbcupid-touch-slider
 Touch slider capable of handling 3 touch input with adjustable sensitivity!
 
-<img src="https://files.pcbcupid.com/Documentation/Boards/g-sense/1ChMic/pcbcupid-single-channel-gesense.avif" alt="PCBCUPID-mic-1ch" />
+<img src="https://files.pcbcupid.com/Documentation/Boards/g-sense/1ChMic/pcbcupid-single-channel-gesense.avif" alt="PCBCUPID-mic-1ch" width="500"/>
 
 This repo contains open source PCB files for PCBCUPID GSense Touch Slider Module <br/>
 This particular PCB is designed using Kicad v9.0
